@@ -61,7 +61,7 @@
 - (void)loadView{
     [super loadView];
     
-    NSLog(@"loadView");
+    NSLog(@"创建试图loadView");
     
     
     //1.布局UI
